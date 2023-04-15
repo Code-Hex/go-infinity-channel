@@ -64,3 +64,7 @@ for i := 0; i < count; i++ {
 }
 ```
 
+## Author
+
+- [codehex](https://twitter.com/codehex/)
+- [ChatGPT](https://chat.openai.com/)
