@@ -6,6 +6,8 @@
 
 ## Synopsis
 
+Try this on [go playground](https://go.dev/play/p/-3ZLmziBYW8)!
+
 ```go
 package main
 
@@ -36,6 +38,10 @@ func main() {
 ## Requirements
 
 Go 1.18 or later.
+
+## Install
+
+    $ go get github.com/Code-Hex/go-infinity-channel
 
 ## Caution
 
