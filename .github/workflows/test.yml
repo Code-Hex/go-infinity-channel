@@ -24,7 +24,6 @@ jobs:
     - uses: actions/setup-go@v3
       with:
         go-version: ${{ matrix.go }}
-        cache: true
     - name: Declare some variables
       id: vars
       run: |
